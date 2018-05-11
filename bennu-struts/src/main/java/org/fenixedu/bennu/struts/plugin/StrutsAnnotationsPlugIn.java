@@ -82,6 +82,7 @@ public class StrutsAnnotationsPlugIn implements PlugIn {
             actionMapping.setScope(mapping.scope());
             actionMapping.setParameter(mapping.parameter());
             actionMapping.setValidate(mapping.validate());
+            actionMapping.setCancellable(true);
 
             if (mapping.formBeanClass() != ActionForm.class) {
                 final String formName = mapping.formBeanClass().getName();
