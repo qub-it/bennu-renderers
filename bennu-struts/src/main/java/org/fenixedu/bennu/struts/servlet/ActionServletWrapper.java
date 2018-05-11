@@ -77,7 +77,7 @@ import com.google.gson.Gson;
  * @author Luis Cruz
  * 
  */
-@WebServlet(urlPatterns = ActionServletWrapper.URL_PATTERN, name = ActionServletWrapper.SERVLET_NAME)
+@WebServlet(urlPatterns = ActionServletWrapper.URL_PATTERN, name = ActionServletWrapper.SERVLET_NAME, loadOnStartup = 1)
 public class ActionServletWrapper extends ActionServlet {
 
     static final String URL_PATTERN = "*.do";
