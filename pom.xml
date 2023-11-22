@@ -41,6 +41,7 @@
     </ciManagement>
 
     <properties>
+        <version.org.fenixedu.bennu>6.3.0-FORK</version.org.fenixedu.bennu>
         <version.javax.servlet.jsp.jsp.api>2.2.1-b03</version.javax.servlet.jsp.jsp.api>
     </properties>
 
