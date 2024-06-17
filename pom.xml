@@ -67,7 +67,7 @@
 
     <modules>
         <module>bennu-renderers</module>
-        <module>bennu-struts</module>
-        <module>example</module>
+        <!--<module>bennu-struts</module>
+        <module>example</module>-->
     </modules>
 </project>
