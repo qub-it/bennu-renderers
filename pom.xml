@@ -20,7 +20,7 @@
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>
                 <artifactId>fenixedu-oss-dependency-management</artifactId>
-                <version>163</version>
+                <version>201</version>
                 <scope>import</scope>
                 <type>pom</type>
             </dependency>
@@ -67,7 +67,9 @@
 
     <modules>
         <module>bennu-renderers</module>
-        <!--<module>bennu-struts</module>
-        <module>example</module>-->
+        <module>bennu-struts</module>
+	<!--	
+        <module>example</module>
+	-->
     </modules>
 </project>

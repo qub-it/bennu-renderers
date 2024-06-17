@@ -1,3 +1,5 @@
+- Bug fix: Bringing bennu-struts back because ULisboa still needs it [#qubIT-Omnis-4737]
+
 6.0.0-FORK (17-06-2024)
 - Improvement: Updates bennu version [#qubIT-Omnis-4737]
 
