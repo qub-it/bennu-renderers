@@ -1,3 +1,5 @@
+- Improvement: Updates bennu version [#qubIT-Omnis-4737]
+
 5.5.0-FORK (17-06-2024)
 - Improvement: Performs release for jdk 17 [#qubIT-Omnis-4737]
 - Improvement: Adds fenixedu OSS DM [#qubIT-Omnis-4736]
