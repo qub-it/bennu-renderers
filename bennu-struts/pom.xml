@@ -22,10 +22,12 @@
         <dependency>
             <groupId>org.fenixedu</groupId>
             <artifactId>bennu-core</artifactId>
+            <version>6.10.0-FORK</version>
         </dependency>
         <dependency>
             <groupId>org.fenixedu</groupId>
             <artifactId>bennu-portal</artifactId>
+            <version>6.10.0-FORK</version>
         </dependency>
         <dependency>
             <groupId>org.fenixedu</groupId>
