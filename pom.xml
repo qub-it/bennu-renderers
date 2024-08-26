@@ -54,6 +54,7 @@
 
     <properties>
         <version.javax.servlet.jsp.jsp.api>2.2.1-b03</version.javax.servlet.jsp.jsp.api>
+        <version.com.google.guava.guava>33.2.1-jre</version.com.google.guava.guava>
     </properties>
 
     <dependencies>

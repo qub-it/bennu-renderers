@@ -13,10 +13,6 @@
     <name>Bennu Renderers Framework</name>
     <inceptionYear>2008</inceptionYear>
 
-    <properties>
-        <version.com.google.guava.guava>33.2.1-jre</version.com.google.guava.guava>
-    </properties>
-
     <build>
         <plugins>
             <plugin>
