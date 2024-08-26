@@ -32,7 +32,6 @@
         <dependency>
             <groupId>org.fenixedu</groupId>
             <artifactId>bennu-core</artifactId>
-            <version>7.0.0-FORK</version>
         </dependency>
         <dependency>
             <groupId>org.fenixedu</groupId>
