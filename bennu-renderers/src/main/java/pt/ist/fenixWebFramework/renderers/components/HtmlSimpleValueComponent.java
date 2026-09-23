@@ -18,7 +18,7 @@
  */
 package pt.ist.fenixWebFramework.renderers.components;
 
-import javax.servlet.jsp.PageContext;
+import jakarta.servlet.jsp.PageContext;
 
 import org.apache.commons.beanutils.ConvertUtils;
 

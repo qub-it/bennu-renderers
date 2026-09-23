@@ -20,7 +20,7 @@ package pt.ist.fenixWebFramework.servlets.filters.contentRewrite;
 
 import java.util.TreeSet;
 
-import javax.servlet.http.HttpSession;
+import jakarta.servlet.http.HttpSession;
 
 import com.google.common.hash.Hashing;
 
@@ -56,7 +56,7 @@ public final class GenericChecksumRewriter {
 
     private static boolean isRelevantPart(final String part) {
         return part.length() > 0 && !part.startsWith(CHECKSUM_ATTRIBUTE_NAME) && !part.startsWith("page=")
-                && !part.startsWith("org.apache.struts.action.LOCALE") && !part.startsWith("javax.servlet.request.")
+                && !part.startsWith("org.apache.struts.action.LOCALE") && !part.startsWith("jakarta.servlet.request.")
                 && !part.startsWith("ok");
     }
 

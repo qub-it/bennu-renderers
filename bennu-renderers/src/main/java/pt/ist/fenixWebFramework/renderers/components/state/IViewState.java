@@ -22,7 +22,7 @@ import java.io.Serializable;
 import java.util.List;
 import java.util.Properties;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 import org.fenixedu.bennu.core.domain.User;
 

@@ -23,8 +23,8 @@ import java.io.Writer;
 import java.util.HashMap;
 import java.util.Map;
 
-import javax.servlet.ServletException;
-import javax.servlet.jsp.PageContext;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.jsp.PageContext;
 
 public class HtmlIncludeTag extends HtmlTag {
 

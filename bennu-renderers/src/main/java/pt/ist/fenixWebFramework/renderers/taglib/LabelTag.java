@@ -21,8 +21,8 @@ package pt.ist.fenixWebFramework.renderers.taglib;
 import java.io.IOException;
 import java.util.List;
 
-import javax.servlet.jsp.JspException;
-import javax.servlet.jsp.tagext.BodyTagSupport;
+import jakarta.servlet.jsp.JspException;
+import jakarta.servlet.jsp.tagext.BodyTagSupport;
 
 import org.fenixedu.commons.i18n.I18N;
 

@@ -18,7 +18,7 @@
  */
 package org.fenixedu.bennu.struts.portal;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 import org.fenixedu.bennu.portal.domain.MenuFunctionality;
 import org.fenixedu.bennu.portal.model.Functionality;
