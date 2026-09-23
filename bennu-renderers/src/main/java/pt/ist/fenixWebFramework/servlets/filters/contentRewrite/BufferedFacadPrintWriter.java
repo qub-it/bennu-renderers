@@ -20,7 +20,7 @@ package pt.ist.fenixWebFramework.servlets.filters.contentRewrite;
 
 import java.io.PrintWriter;
 
-import javax.servlet.http.HttpSession;
+import jakarta.servlet.http.HttpSession;
 
 public class BufferedFacadPrintWriter extends PrintWriter {
 

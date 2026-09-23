@@ -14,7 +14,7 @@
     <inceptionYear>2008</inceptionYear>
 
     <properties>
-        <version.struts>1.2.9</version.struts>
+        <version.struts>1.2.9-jakarta</version.struts>
     </properties>
 
     <dependencies>
@@ -57,7 +57,7 @@
         <dependency>
             <groupId>commons-fileupload</groupId>
             <artifactId>commons-fileupload</artifactId>
-            <version>1.3.1</version>
+            <version>1.6.0-jakarta</version>
         </dependency>
     </dependencies>
 </project>

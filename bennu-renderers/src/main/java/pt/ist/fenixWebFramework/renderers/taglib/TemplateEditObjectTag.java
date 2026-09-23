@@ -18,7 +18,7 @@
  */
 package pt.ist.fenixWebFramework.renderers.taglib;
 
-import javax.servlet.jsp.JspException;
+import jakarta.servlet.jsp.JspException;
 
 import pt.ist.fenixWebFramework.renderers.components.Constants;
 import pt.ist.fenixWebFramework.renderers.model.MetaObject;

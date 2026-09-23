@@ -18,7 +18,7 @@
  */
 package pt.ist.fenixWebFramework.renderers.validators;
 
-import javax.servlet.jsp.PageContext;
+import jakarta.servlet.jsp.PageContext;
 
 import pt.ist.fenixWebFramework.renderers.components.HtmlComponent;
 import pt.ist.fenixWebFramework.renderers.components.Validatable;

@@ -18,7 +18,7 @@
  */
 package org.fenixedu.bennu.struts.base;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 import org.apache.struts.action.ActionForward;
 import org.apache.struts.action.ActionMapping;

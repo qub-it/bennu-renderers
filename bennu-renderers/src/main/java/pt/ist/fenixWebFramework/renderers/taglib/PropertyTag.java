@@ -18,8 +18,8 @@
  */
 package pt.ist.fenixWebFramework.renderers.taglib;
 
-import javax.servlet.jsp.JspException;
-import javax.servlet.jsp.tagext.BodyTagSupport;
+import jakarta.servlet.jsp.JspException;
+import jakarta.servlet.jsp.tagext.BodyTagSupport;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

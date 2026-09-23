@@ -18,7 +18,7 @@
  */
 package pt.ist.fenixWebFramework.rendererExtensions.taglib;
 
-import javax.servlet.jsp.JspException;
+import jakarta.servlet.jsp.JspException;
 
 import pt.ist.fenixWebFramework.renderers.taglib.EditObjectTag;
 import pt.ist.fenixframework.FenixFramework;

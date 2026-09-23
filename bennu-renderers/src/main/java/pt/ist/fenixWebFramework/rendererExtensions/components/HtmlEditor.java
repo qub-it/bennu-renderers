@@ -18,7 +18,7 @@
  */
 package pt.ist.fenixWebFramework.rendererExtensions.components;
 
-import javax.servlet.jsp.PageContext;
+import jakarta.servlet.jsp.PageContext;
 
 import pt.ist.fenixWebFramework.renderers.components.HtmlSimpleValueComponent;
 import pt.ist.fenixWebFramework.renderers.components.tags.HtmlTag;

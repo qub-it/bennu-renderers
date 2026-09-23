@@ -1,7 +1,7 @@
 package pt.ist.fenixWebFramework.renderers.utils;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.jsp.PageContext;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.jsp.PageContext;
 
 public interface ModuleResolver {
 

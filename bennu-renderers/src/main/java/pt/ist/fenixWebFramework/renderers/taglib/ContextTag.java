@@ -22,8 +22,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.servlet.jsp.JspException;
-import javax.servlet.jsp.tagext.TagSupport;
+import jakarta.servlet.jsp.JspException;
+import jakarta.servlet.jsp.tagext.TagSupport;
 
 import pt.ist.fenixWebFramework.renderers.components.HtmlHiddenField;
 import pt.ist.fenixWebFramework.renderers.components.state.IViewState;

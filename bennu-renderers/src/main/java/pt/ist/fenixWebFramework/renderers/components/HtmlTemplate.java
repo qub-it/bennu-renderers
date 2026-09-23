@@ -21,7 +21,7 @@ package pt.ist.fenixWebFramework.renderers.components;
 import java.util.HashMap;
 import java.util.Map;
 
-import javax.servlet.jsp.PageContext;
+import jakarta.servlet.jsp.PageContext;
 
 import pt.ist.fenixWebFramework.renderers.components.tags.HtmlIncludeTag;
 import pt.ist.fenixWebFramework.renderers.components.tags.HtmlTag;
