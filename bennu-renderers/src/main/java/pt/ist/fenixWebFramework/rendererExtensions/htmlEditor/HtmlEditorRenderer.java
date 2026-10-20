@@ -18,7 +18,7 @@
  */
 package pt.ist.fenixWebFramework.rendererExtensions.htmlEditor;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 import pt.ist.fenixWebFramework.rendererExtensions.components.HtmlEditor;
 import pt.ist.fenixWebFramework.renderers.InputRenderer;

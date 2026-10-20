@@ -20,8 +20,8 @@ package pt.ist.fenixWebFramework.renderers.taglib;
 
 import java.io.IOException;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.jsp.JspException;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.jsp.JspException;
 
 import pt.ist.fenixWebFramework.renderers.utils.RenderUtils;
 

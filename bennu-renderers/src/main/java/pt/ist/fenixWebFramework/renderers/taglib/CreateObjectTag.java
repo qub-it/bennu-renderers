@@ -21,7 +21,7 @@ package pt.ist.fenixWebFramework.renderers.taglib;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.servlet.jsp.JspException;
+import jakarta.servlet.jsp.JspException;
 
 import org.apache.commons.beanutils.ConvertUtils;
 import org.slf4j.Logger;

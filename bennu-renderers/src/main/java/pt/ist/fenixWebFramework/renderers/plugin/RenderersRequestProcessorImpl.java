@@ -20,7 +20,7 @@ package pt.ist.fenixWebFramework.renderers.plugin;
 
 import java.util.Map;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 import pt.ist.fenixWebFramework.servlets.commons.UploadedFile;
 

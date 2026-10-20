@@ -20,7 +20,7 @@
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>
                 <artifactId>fenixedu-oss-dependency-management</artifactId>
-                <version>776</version>
+                <version>778</version>
                 <scope>import</scope>
                 <type>pom</type>
             </dependency>
@@ -53,23 +53,28 @@
     </ciManagement>
 
     <properties>
-        <version.javax.servlet.jsp.jsp.api>2.2.1-b03</version.javax.servlet.jsp.jsp.api>
+        <version.jakarta.servlet.jsp.jakarta.jsp.api>3.1.0</version.jakarta.servlet.jsp.jakarta.jsp.api>
         <version.com.google.guava.guava>33.2.1-jre</version.com.google.guava.guava>
     </properties>
 
     <dependencies>
         <dependency>
-            <groupId>javax.servlet.jsp</groupId>
-            <artifactId>jsp-api</artifactId>
-            <version>${version.javax.servlet.jsp.jsp.api}</version>
+            <groupId>jakarta.servlet</groupId>
+            <artifactId>jakarta.servlet-api</artifactId>
+            <version>6.0.0</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>jakarta.servlet.jsp</groupId>
+            <artifactId>jakarta.servlet.jsp-api</artifactId>
+            <version>${version.jakarta.servlet.jsp.jakarta.jsp.api}</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
 
     <modules>
         <module>bennu-renderers</module>
-        <module>bennu-struts</module>
-	<!--	
+	<!--
         <module>example</module>
 	-->
     </modules>

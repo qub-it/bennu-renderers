@@ -20,7 +20,7 @@ package pt.ist.fenixWebFramework.rendererExtensions.taglib;
 
 import java.util.Collection;
 
-import javax.servlet.jsp.JspException;
+import jakarta.servlet.jsp.JspException;
 
 import pt.ist.fenixWebFramework.rendererExtensions.converters.DomainObjectKeyArrayConverter;
 import pt.ist.fenixWebFramework.rendererExtensions.converters.DomainObjectKeyConverter;

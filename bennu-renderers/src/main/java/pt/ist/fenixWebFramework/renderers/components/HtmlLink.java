@@ -24,7 +24,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import javax.servlet.jsp.PageContext;
+import jakarta.servlet.jsp.PageContext;
 
 import pt.ist.fenixWebFramework.renderers.components.tags.HtmlTag;
 import pt.ist.fenixWebFramework.renderers.utils.RenderUtils;
